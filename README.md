@@ -86,6 +86,12 @@ You'll now see the following changes:
 - Your `application.css` file now has the line `require foundation_and_overrides`
 - You now have a fancy new file called `foundation_and_overrides.scss`!
 
+### IMPORTANT (temporary) NOTE!
+
+Foundation 6 is tragically NOT available as a gem yet! **You must use [THESE DOCS](http://foundation.zurb.com/sites/docs/v/5.5.3/) for reference with your Rails apps,** or else
+
+![](https://cessnachick.files.wordpress.com/2015/08/youre-going-to-have-a-bad-time.png)
+
 ### Using `foundation_and_overrides`
 
 `foundation_and_overrides.scss` looks like this:
@@ -102,5 +108,5 @@ These comments are all variables that Foundation uses to determine how things ar
 
 Resources:
 
-- [Foundation clinic notes](https://gist.github.com/cmkoller/7ccb2a2f9ec48ee71471)
-- [Foundation docs](http://foundation.zurb.com/docs/)
+- [Foundation clinic notes](https://gist.github.com/cmkoller/7ccb2a2f9ec48ee71471) (<-- These notes are for Foundation 5, like you'll be using!)
+- [Foundation docs](http://foundation.zurb.com/sites/docs/v/5.5.3/)
