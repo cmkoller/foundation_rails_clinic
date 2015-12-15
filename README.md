@@ -62,7 +62,7 @@ That is all I'm going to show you for today. You can check out these resources f
 - [Sass for Web Designers](http://esdwebtestlink.com/PDFs/ABookApart/Sass-for-Web-Designers.pdf) - great book on Sass
 - [Previous clinic notes of mine](https://gist.github.com/cmkoller/fadb5e1d177aa209d0c2)
 - [Sassmeister](http://sassmeister.com/) - Tool for messing around w/ Sass and seeing it turn into CSS
-- Alex's future clinic on more Sass stuff
+- Future clinic on more Sass stuff
 
 ## Foundation
 
